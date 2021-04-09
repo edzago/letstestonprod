@@ -1,0 +1,23 @@
+{
+  "name": "letstestonprod",
+  "version": "1.0.1",
+  "description": "Letst test on prod website",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/is-email-valid.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edzago/letstestonprod.git"
+  },
+  "author": "Edgars",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edzago/letstestonprod/issues"
+  },
+  "homepage": "https://github.com/edzago/letstestonprod#readme"
+}
